@@ -1,0 +1,9 @@
+{
+  "name": "@panda/example-auth-module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real, installed-as-a-real-npm-package example of a panda:module — exists purely to prove Phase 4's real npm resolution end to end, not meant to be published for its own sake.",
+  "panda": {
+    "manifest": "panda.manifest.json"
+  }
+}
